@@ -12,3 +12,4 @@ C:\Users\epicg\source\repos\CalcExample\CalcExample\obj\Debug\net6.0\refint\Calc
 C:\Users\epicg\source\repos\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.pdb
 C:\Users\epicg\source\repos\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.genruntimeconfig.cache
 C:\Users\epicg\source\repos\CalcExample\CalcExample\obj\Debug\net6.0\ref\CalcExample.dll
+C:\Users\epicg\source\repos\CalcExample\CalcExample\obj\Debug\net6.0\CalcExample.sourcelink.json
