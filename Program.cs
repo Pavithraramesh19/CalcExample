@@ -11,5 +11,7 @@ Console.WriteLine("Sub call");
 calc.Sub(20, 4);
 Console.WriteLine("Average call");
 calc.Avg(5, 4);
+Console.WriteLine("AddThree call");
+calc.Addthree(12, 45, 3);
 
 

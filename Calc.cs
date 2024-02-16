@@ -28,6 +28,9 @@ namespace CalcExample
         {
             Console.WriteLine("Rseult after Average \t" + (n1 / n2)/2);
         }
-
+        public void Addthree(double n1, double n2,double n3)
+        {
+            Console.WriteLine("Rseult after additionthree \t" + (n1 + n2 + n3));
+        }
     }
 }
